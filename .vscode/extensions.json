@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-toolsai.jupyter",
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "ms-vsliveshare.vsliveshare",
+        "donjayamanne.python-environment-manager",
+        "davidanson.vscode-markdownlint",
+        "github.vscode-pull-request-github",
+        "github.codespaces",
+        "github.copilot",
+        "streetsidesoftware.code-spell-checker"
+    ]
+}
