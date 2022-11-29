@@ -9,6 +9,7 @@
         "github.vscode-pull-request-github",
         "github.codespaces",
         "github.copilot",
-        "streetsidesoftware.code-spell-checker"
+        "streetsidesoftware.code-spell-checker",
+        "kjaymiller.vscode-add-code-of-conduct"
     ]
 }
