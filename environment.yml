@@ -1,0 +1,15 @@
+name: ghstats
+channels:
+  - conda-forge
+  - defaults
+  - fastai
+dependencies:
+  - python=3.9
+  - ghapi
+  - numpy
+  - pandas
+  - matplotlib
+  - black
+  - flake8
+  - pandas-profiling=3.2.0
+  - ipywidgets

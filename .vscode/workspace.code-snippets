@@ -18,7 +18,7 @@
 			"  - python=${2:python_version}",
 			"  - ${3:conda_package}",
 			"  - pip",
-			"  pip:",
+			"  - pip:",
 			"    - ${4:pip_package}",
 			"variables:",
 			"  ${5:var_name}: ${6:var_label}"
