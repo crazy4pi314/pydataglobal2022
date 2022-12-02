@@ -1,7 +1,6 @@
 # Level up you Jupyter Notebooks with VS Code
-_PyData Global 2022_ [schedule](https://global2022.pydata.org/cfp/talk/WYCBXN/) [recording (coming soon)]()
 
-I have been using both Jupyter Notebooks and VS Code for almost 10 years in a variety of academic and industrial contexts, and love sharing what I have learned along the way. This tutorial is a collection of the most interesting tools/tips that I have learned or frequently demo to other notebook users in the scientific Python community <3
+_PyData Global 2022_ | [schedule](https://global2022.pydata.org/cfp/talk/WYCBXN/) + recording coming soon
 
 ## Workshop Abstract
 
@@ -33,3 +32,9 @@ Visual Studio Code is one of the most popular editors in the Python and data sci
   - [Data wrangler](https://www.youtube.com/watch?v=7dVnCGHJI4c)
 - Wrap-up and where to learn more
   - [Jupyter Extension Discussions](https://github.com/microsoft/vscode-jupyter/discussions)
+
+## Hi, I'm Sarah!
+
+I have been using both Jupyter Notebooks and VS Code for almost 10 years in a variety of academic and industrial contexts, and love sharing what I have learned along the way. This tutorial is a collection of the most interesting tools/tips that I have learned or frequently demo to other notebook users in the scientific Python community <3
+
+> Ask questions or say hi! https://sckaiser.com or on Mastodon [@crazy4pi314@mathstodon.xyz](https://mathstodon.xyz/@crazy4pi314)
