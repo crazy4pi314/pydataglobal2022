@@ -1,13 +1,10 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/anaconda
 {
-	"name": "Anaconda (Python 3)",
+	"name": "Pydata Global",
 	"build": { 
 		"context": "..",
 		"dockerfile": "Dockerfile"
-	},
-	"features": {
-		"ghcr.io/rocker-org/devcontainer-features/pandoc:1": {}
 	},
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
@@ -17,13 +14,13 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "conda init",
+	//"postCreateCommand": "conda init",
 
 	// Configure tool-specific properties.
 	"customizations": {
 		"vscode": {
 			"settings": {
-				"python.defaultInterpreterPath": "/opt/conda/envs/pydataglobal2022/bin/python"
+				"python.defaultInterpreterPath": "/opt/conda/envs/base/bin/python"
 			},
 			"extensions": [
 				"GitHub.codespaces",
