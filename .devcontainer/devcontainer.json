@@ -20,7 +20,7 @@
 	"customizations": {
 		"vscode": {
 			"settings": {
-				"python.defaultInterpreterPath": "/opt/conda/envs/base/bin/python"
+				"python.defaultInterpreterPath": "/opt/conda/bin/python"
 			},
 			"extensions": [
 				"GitHub.codespaces",
@@ -32,7 +32,9 @@
 				"ms-toolsai.jupyter",
 				"ms-vsliveshare.vsliveshare",
 				"DavidAnson.vscode-markdownlint",
-				"donjayamanne.python-environment-manager"
+				"donjayamanne.python-environment-manager",
+				"ms-vscode-remote.vscode-remote-extensionpack",
+				"ms-azuretools.vscode-docker"
 			]
 		}
 	}
