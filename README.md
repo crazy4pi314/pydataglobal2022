@@ -1,5 +1,6 @@
-![Header Banner](media/header.png)
-
+<p align="center">
+<img src="media/header.png" width=40%>
+</p>
 Visual Studio Code is one of the most popular editors in the Python and data science communities, and the extension ecosystem makes it easy for users to easily customize their workspace for the tools and frameworks they need. Jupyter notebooks are one such popular tool, and there are some really great features for working in notebooks that can reduce context switching, enable multi-tool workflows, and utilize powerful Python IDE features in notebooks. This tutorial is geared for all Jupyter Notebook users, who either have interest in or are regularly using VS Code. Participants will learn how to use some of the best VS Code features for Jupyter Notebooks, as well as a bunch of other tips and tricks to run, visualize and share your notebooks in VS Code. Some familiarity with Jupyter Notebooks is required, but experience with VS Code is not necessary. Materials and sample notebooks for the tutorial will be hosted on GitHub, which participants will be able to launch in their browser in the VS Code editor with GitHub Codespaces with no local setup. Participants will also be encouraged if they have VS Code installed locally that they can open one of their own notebooks and try out the features as we go along.
 
 ## Topics
@@ -28,6 +29,23 @@ Visual Studio Code is one of the most popular editors in the Python and data sci
   - [Data wrangler](https://www.youtube.com/watch?v=7dVnCGHJI4c)
 - Wrap-up and where to learn more
   - [Jupyter Extension Discussions](https://github.com/microsoft/vscode-jupyter/discussions)
+  
+ --- 
+ 
+ ## Awesome extensions for working with Notebooks:
+- [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- [Python Environments](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-environment-manager)
+- [autoDocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
+- [Liveshare](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+- [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
+- [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+- [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+
+---
 
 ## Hi, I'm Sarah!👋
 
