@@ -1,4 +1,5 @@
 # Level up you Jupyter Notebooks with VS Code
+_PyData Global 2022_ [schedule](https://global2022.pydata.org/cfp/talk/WYCBXN/) [recording (coming soon)]()
 
 I have been using both Jupyter Notebooks and VS Code for almost 10 years in a variety of academic and industrial contexts, and love sharing what I have learned along the way. This tutorial is a collection of the most interesting tools/tips that I have learned or frequently demo to other notebook users in the scientific Python community <3
 
