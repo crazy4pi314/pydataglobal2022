@@ -11,7 +11,7 @@ footer: "@crazy4pi314"
 ![bg left:40% 80%](https://jupyter.org/assets/homepage/main-logo.svg)
 ![bg left:40% 80%](media/vscode.svg)
 
-# **Level up you Jupyter Notebooks with VS Code**
+# **Level up your Jupyter Notebooks with VS Code**
 
 PyData Global 2022
 
