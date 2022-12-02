@@ -36,7 +36,8 @@
 				"ms-vscode-remote.vscode-remote-extensionpack",
 				"ms-azuretools.vscode-docker",
 				"mechatroner.rainbow-csv",
-				"tomoki1207.pdf"
+				"tomoki1207.pdf",
+				"donjayamanne.python-extension-pack"
 			]
 		}
 	}
