@@ -26,7 +26,16 @@
 				"python.defaultInterpreterPath": "/opt/conda/envs/pydataglobal2022/bin/python"
 			},
 			"extensions": [
-				"mechatroner.rainbow-csv"
+				"GitHub.codespaces",
+				"kjaymiller.vscode-add-code-of-conduct",
+				"streetsidesoftware.code-spell-checker",
+				"ms-vscode-remote.remote-containers",
+				"GitHub.copilot",
+				"GitHub.vscode-pull-request-github",
+				"ms-toolsai.jupyter",
+				"ms-vsliveshare.vsliveshare",
+				"DavidAnson.vscode-markdownlint",
+				"donjayamanne.python-environment-manager"
 			]
 		}
 	}

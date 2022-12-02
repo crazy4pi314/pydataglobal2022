@@ -2,14 +2,30 @@ name: ghstats
 channels:
   - conda-forge
   - defaults
-  - fastai
 dependencies:
-  - python=3.9
-  - ghapi
-  - numpy
-  - pandas
-  - matplotlib
-  - black
-  - flake8
-  - pandas-profiling=3.2.0
-  - ipywidgets
+  - python==3.10
+  - numpy==1.23.5
+  - pandas==1.5.2
+  - black==22.10.0
+  - flake8==6.0.0
+  - pandas-profiling==3.5.0
+  - ipywidgets==7.6.5
+  - beautifulsoup4==4.11.1
+  - certifi==2022.9.24
+  - glib==2.74.1
+  - openssl==3.0.7
+  - nbconvert==6.4.4
+  - nbformat==5.5.0
+  - nest-asyncio==1.5.5
+  - networkx==2.8.8
+  - notebook==6.5.2
+  - jupyter_client==7.4.7
+  - colorama==0.4.6
+  - ipython==8.6.0
+  - jupyter_core==4.11.2
+  - qt-main==5.15.6
+  - pyqt==5.15.7
+  - matplotlib-base==3.6.2
+  - pip==22.3.1
+  - pip:
+    - ghapi==1.0.3
